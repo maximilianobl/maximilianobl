@@ -29,3 +29,4 @@ Si estas usando algunos de mis proyectos y tienes inconvenientes y quieres consu
 ![ELK Stack](https://img.shields.io/badge/elastic%20stack-%23005571.svg?&style=flat-square&logo=elastic%20stack)
 ![kibana](https://img.shields.io/badge/kibana-%23005571.svg?&style=flat-square&logo=kibana)
 ![Logstash](https://img.shields.io/badge/logstash-%23005571.svg?&style=flat-square&logo=logstash)
+![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=flat-square&logo=apache%20kafka)
