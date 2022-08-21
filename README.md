@@ -33,3 +33,4 @@ Si estas usando algunos de mis proyectos y tienes inconvenientes y quieres consu
 ![Postgresql](https://img.shields.io/badge/postgresql-%23336791.svg?&style=flat-square&logo=postgresql)
 ![MS SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?&style=flat-square&logo=microsoft%20sql%20server)
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?&style=flat-square&logo=oracle)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?&style=flat-square&logo=postman)
