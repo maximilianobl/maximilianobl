@@ -14,6 +14,11 @@ Si estas usando algunos de mis proyectos y tienes inconvenientes y quieres consu
 - 🤔 [maximilianobl](https://maximilianobl.github.io/)
 
 ### 🛠️ Languages and Tools:
+![Beats](https://img.shields.io/badge/beats-%23005571.svg?&style=flat-square&logo=beats)
+![Elastic](https://img.shields.io/badge/elastic-%23005571.svg?&style=flat-square&logo=elastic)
+![ELK Stack](https://img.shields.io/badge/elastic%20stack-%23005571.svg?&style=flat-square&logo=elastic%20stack)
+![kibana](https://img.shields.io/badge/kibana-%23005571.svg?&style=flat-square&logo=kibana)
+![Logstash](https://img.shields.io/badge/logstash-%23005571.svg?&style=flat-square&logo=logstash)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
@@ -23,15 +28,9 @@ Si estas usando algunos de mis proyectos y tienes inconvenientes y quieres consu
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-
-![Beats](https://img.shields.io/badge/beats-%23005571.svg?&style=flat-square&logo=beats)
-![Elastic](https://img.shields.io/badge/elastic-%23005571.svg?&style=flat-square&logo=elastic)
-![ELK Stack](https://img.shields.io/badge/elastic%20stack-%23005571.svg?&style=flat-square&logo=elastic%20stack)
-![kibana](https://img.shields.io/badge/kibana-%23005571.svg?&style=flat-square&logo=kibana)
-![Logstash](https://img.shields.io/badge/logstash-%23005571.svg?&style=flat-square&logo=logstash)
-![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=flat-square&logo=apache%20kafka)
 ![Postgresql](https://img.shields.io/badge/postgresql-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?&style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=flat-square&logo=apache%20kafka)
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?&style=flat-square&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white)
