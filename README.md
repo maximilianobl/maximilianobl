@@ -9,10 +9,6 @@ Si estas usando algunos de mis proyectos y tienes inconvenientes y quieres consu
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-### Sitios web
-- 👨🏽‍💻 [Badges Credly](https://www.credly.com/users/maczy/badges)
-- 🤔 [maximilianobl](https://maximilianobl.github.io/)
-
 ### 🛠️ Languages and Tools:
 ![Beats](https://img.shields.io/badge/beats-%23005571.svg?&style=flat-square&logo=beats)
 ![Elastic](https://img.shields.io/badge/elastic-%23005571.svg?&style=flat-square&logo=elastic)
